@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joana Marques</h1>
+<h1 align="center">Hi! <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Joana Marques</h1>
 
 <h3 align="center"> 🖥️ 3rd year Informatics and Computing Engineering student @FEUP </h3>
 
